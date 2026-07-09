@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anandpreshob
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anandpreshob@gmail.com
 
